@@ -1,0 +1,63 @@
+/* Directory Css 
+
+COLORS
+
+RED #E60D0D
+DARK RED #B71414
+HEADER SHADOW #6B6B6B
+LINK TAB SHADOW #3C3C3C
+SECTION SHADOW #AAAAAA
+LIGHT BORDER #777777
+DARK BORDER #696969
+POST SHADOW #A1A1A1
+
+
+*/
+
+#directory {
+	display: block;
+	width: 95%;
+	font-size: 14pt;
+	margin: 0px auto;
+}
+#directory_table {
+	border: 2px solid #696969;
+	width: 100%;
+	border-radius: 4px;	
+	border-collapse: collapse;
+	background: white;
+}
+#directory_table td, th{
+	border: 1px solid #696969;
+	padding: 4px;
+}
+#directory_table th {
+	padding: 0px; 
+}
+#directory_table tr:nth-child(odd) {
+	background: #E2E2E2;
+}
+#directory_table tr:first-child {
+	background: #8F8F8F;
+}
+#selector_box {
+	display: block;
+	margin: 25px auto;
+	font-size: 18pt;
+	padding-left: 3%;
+}
+#selector_box select, input {
+	margin-top: 3px;
+	font-size: 14pt;
+	font-family: calibri_light;
+	margin-left: 8px;
+}
+#selector_box input {
+	margin-left: 15px;
+	width: 10%;
+}
+
+
+
+
+

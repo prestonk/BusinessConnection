@@ -1,0 +1,89 @@
+/* Registration CSS
+
+
+COLORS
+
+RED #E60D0D
+DARK RED #B71414
+HEADER SHADOW #6B6B6B
+LINK TAB SHADOW #3C3C3C
+SECTION SHADOW #AAAAAA
+LIGHT BORDER #777777
+DARK BORDER #696969
+POST SHADOW #A1A1A1
+
+ */
+ 
+.section {
+	width: 78%;
+	display: block;
+	height: 100%;
+	margin: 0px auto 100px auto;
+}
+ 
+#form_que_box {
+	display: inline-block;
+	width: 49%;
+	text-align: center;
+	margin-top: 60px;
+	font-size: 24pt;
+	font-family: gulim;
+	height: 200px;
+}
+#form_button {
+	height: 35px;
+	margin-top: 40px;
+	width: 18%;
+	border: 2px solid #FFFFFF;
+	font-size: 20pt;
+	color: white;
+	border-radius: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url('../img/tweed.png');
+	padding-top: 3px;
+	box-shadow: 1px 2px 4px #6B6B6B;
+}
+#form_box {
+	display: block;
+	margin: 60px auto 0px auto;
+	width: 42%;
+	padding: 0px 10%;
+	font-size: 14pt;
+}
+#form_box input {
+	float: right;
+}
+#form_box input, select {
+	font-size: 14pt;
+	font-family: calibri_light;
+}
+#logo_uploader {
+	margin-right: -25%;
+}
+#submit {
+	display: block;
+	margin: 0px 30%;
+	font-weight: bold;
+	width: 40%;
+}
+#info {
+	width: 60%;
+	margin: 0px auto;
+	font-size: 19pt;
+	margin-top: 40px;
+}
+#info span {
+	color: #E60D0D;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+/* INDEX SPECIFIC CSS 
+
+COLORS
+
+RED #E60D0D
+DARK RED #B71414
+HEADER SHADOW #6B6B6B
+LINK TAB SHADOW #3C3C3C
+SECTION SHADOW #AAAAAA
+LIGHT BORDER #777777
+DARK BORDER #696969
+POST SHADOW #A1A1A1
+
+
+*/
+
+/* HEADER */
+
+a:link {
+	color: #E60D0D;
+}
+a:visited {
+	color: #E60D0D;
+}
+a:hover {
+	color: #B71414;
+}
+a:active {
+	color: #E60D0D;
+}
+
+
+.header {
+	height: 100px;
+	
+}
+#index_logo {
+	width: 100%;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+#index_logo_pic {
+	height: 80px;
+	margin-top: 7px;
+	border: 0px solid black;
+}
+
+
+/* BODY */
+
+.section {
+	border: 0px solid black;
+	width: 100%;
+	box-shadow: 0px 0px 0px black;
+	background: none;
+}
+#index_pic_box {
+	display: inline-block;
+	width: 60%;
+	margin-top: 5px;
+	text-align: right;
+}
+#index_pic_box img {
+	width: 80%;
+	border-radius: 4px;
+	box-shadow: 2px 2px 4px #ABABAB;
+}
+#index_login_form {
+	display: inline-block;
+	text-align: left;
+	width: 30%;
+	margin-top: 40px;
+	padding-left: 8%;
+}
+#index_login_form span {
+	font-size: 44pt;
+	font-family: gulim,Lucida Grande, calibri, sans-serif;
+}
+#index_login_form form {
+	
+}
+#log_text {
+	height: 30px;
+	width: 200px;
+	margin-bottom: 10px;
+	font-family: calibri_light, calibri, sans-serif;
+	font-size: 17pt;
+}
+#log_button {
+	height: 35px;
+	margin-top: 5px;
+	width: 25%;
+	font-family: calibri_light, calibri, sans-serif;
+	font-size: 17pt;
+}
+#index_info_block {
+	display: block;
+	width: 80%;
+	margin: 80px auto 40px auto;
+	
+}
+#index_info_title {
+	font-family: gulim, Lucida Grande, calibri, sans-serif;
+	font-size: 30pt;
+	text-align: center;
+}
+#index_info_box {
+	display: inline-block;
+	width: 40%;
+	max-height: 290px;
+	margin: 50px 4% 0px 4%;
+	font-size: 16pt;
+}
+#index_info_box_span {
+	color: #E60D0D;
+	margin-left: 24%;
+}
+#index_info_box_title {
+	display: block;
+	margin: 5px 0px 15px 0px;
+	text-align: center;
+	font-family: calibri_light, calibri, sans-serif;
+	font-size: 22pt;
+	font-weight: bold;
+}
+#index_info_box ul {
+	padding-left: 5%;
+	list-style-type: circle;
+}
+#index_info_box form {
+	text-align: center;
+	padding-top: 50px
+}
+#sign_up {
+	height: 50px;
+	width: 30%;
+	border: 2px solid #FFFFFF;
+	font-size: 24pt;
+	color: white;
+	border-radius: 6px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url('../img/tweed.png');
+	padding-top: 8px;
+	box-shadow: 2px 3px 5px #6B6B6B;
+}
+
+
+
+
+
+
+
+
+
